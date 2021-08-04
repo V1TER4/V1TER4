@@ -18,6 +18,13 @@ Conhecimento nao se nega, se compartilha 💕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruan&layout=compact)](https://github.com/V1TER4)
 </div>
+
+<div>
+  <a href="https://github.com/V1TER4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
