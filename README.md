@@ -4,6 +4,13 @@
 Bem vindo ao meu GitHub, viu alguma coisa que gostou? Pega ai, mas use com moderacao, nao va usar todo o codigo pra um projeto inteiro, pode ter algo que foge do que voce precisa ou quer.
 
 Conhecimento nao se nega, se compartilha 💕
+  
+<div>
+  <a href="https://github.com/V1TER4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1TER4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1TER4&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 </div>
 <div>
   
@@ -17,12 +24,6 @@ Conhecimento nao se nega, se compartilha 💕
 - Amante da programação 🖥️ ;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruan&layout=compact)](https://github.com/V1TER4)
-</div>
-
-<div>
-  <a href="https://github.com/V1TER4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
