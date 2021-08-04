@@ -28,5 +28,4 @@ Conhecimento nao se nega, se compartilha 💕
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
 
-![Snake animation](https://github.com/V1TER4/V1TER4/blob/main/.github/workflows/snake.yml)
 ![Snake animation](https://github.com/V1TER4/V1TER4/blob/output/github-contribution-grid-snake.svg)
