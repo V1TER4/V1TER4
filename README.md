@@ -2,7 +2,7 @@
 
 <div> 
 Bem vindo ao meu GitHub, viu alguma coisa que gostou? Pega ai, mas use com moderacao, nao va usar todo o codigo pra um projeto inteiro, pode ter algo que foge do que voce precisa ou quer. 
-<br>
+</br>
 Conhecimento nao se nega, se compartilha 💕
   
 </div>
