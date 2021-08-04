@@ -5,7 +5,7 @@ Bem vindo ao meu GitHub, viu alguma coisa que gostou? Pega ai, mas use com moder
 
 Conhecimento nao se nega, se compartilha 💕
 
-##About Me
+## About Me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-vitor-andrade-5b289120b/)](https://www.linkedin.com/in/victor-castilhop/)
 [![Telegram Badge](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/V1TER4)
@@ -13,6 +13,8 @@ Conhecimento nao se nega, se compartilha 💕
 
 - A young student of Technologist in System Analysis 🖥️ ;
 - Programming lover ;
+
+## Programming Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruan&layout=compact)](https://github.com/V1TER4)
 
