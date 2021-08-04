@@ -1,4 +1,8 @@
-### Hi there 👋
+Opa, tudo bom?
+
+Bem vindo ao meu GitHub, viu alguma coisa que gostou? Pega ai, mas use com moderacao, nao va usar todo o codigo pra um projeto inteiro, pode ter algo que foge do que voce precisa ou quer.
+
+Conhecimento nao se nega, se compartilha 💕
 
 <!--
 **V1TER4/V1TER4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
