@@ -10,7 +10,7 @@
 
 <div style="display=inline_block;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1TER4&theme=midnight-purple&show_icons=true">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1TER4&layout=compact&theme=midnight-purple">
 </div>
 
 <div>
