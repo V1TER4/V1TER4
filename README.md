@@ -1,7 +1,7 @@
 ## Opaa, tudo bom?
 
 <div> 
-  <p> Bem vindo ao meu GitHub, viu alguma coisa que gostou? Pega ai, mas use com moderacao, nao va usar todo o codigo pra um projeto inteiro, pode ter algo que foge do que voce precisa ou quer. </p>
+  <p> Bem vindo ao meu GitHub, viu alguma coisa que gostou? Pega ai, mas use com moderacao, não vá usar todo o codigo pra um projeto inteiro, pode ter algo que foge do que voce precisa ou quer. </p>
 </div>
 
 <div>
@@ -25,8 +25,8 @@
 </div>
   
 
-- Estudante de Analise e Desenvolvimento de Sistemas 👨🏻‍🎓 ;
-- Amante da programação 🖥️ ;
+- Analista e Desenvolvedor de Sistemas 👨🏻‍🎓 ;
+- Amante da Programação 🖥️ ;
  
 </div>
 
